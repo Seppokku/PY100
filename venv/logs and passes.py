@@ -21,3 +21,4 @@ for i in a.split(', '):
 
 
 print(round((count_prof/count_non_prof), 1))
+#fgds
